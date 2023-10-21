@@ -5,4 +5,5 @@
 
 
 - I use arch btw
+- I use neovim btw
 
