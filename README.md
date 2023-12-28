@@ -4,6 +4,6 @@
 I am **OptimisticSnivy**!
 
 
-- I use i3 btw
+- I use i3wm btw
 - I use neovim btw
 
