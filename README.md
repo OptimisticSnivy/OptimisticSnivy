@@ -6,4 +6,4 @@ Fun Facts about me:
 - I use neovim btw
 - chronic distrohopper
 
-dots are moved to [codeberg](https://codeberg.org/optimisticsnivy/.dotfiles)
+dots & repos have been moved to [codeberg](https://codeberg.org/optimisticsnivy/)
